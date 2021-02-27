@@ -30,6 +30,8 @@ matching color or face-value.The goal is to get rid of the cards before other op
   <img  width=400 height=310 src="https://user-images.githubusercontent.com/65526190/109389364-36d22700-7932-11eb-8df8-d301568933c1.png">
     
  
+ 
+ 
    <img width=800 height=400  src="https://user-images.githubusercontent.com/65526190/109389371-3afe4480-7932-11eb-9eb9-2873df9c089a.png">
 
 
